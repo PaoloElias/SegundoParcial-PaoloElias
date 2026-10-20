@@ -1,0 +1,133 @@
+2026.10.20 08:04:14 INFO  Started: Metals version 1.6.9 in folders 'C:\Users\p1406\OneDrive\Escritorio\SegundoParcialPrograFuncional\ejercicio1' for client Visual Studio Code 1.142.0.
+2026.10.20 08:04:14 INFO  Memory monitor started
+2026.10.20 08:04:15 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.10.20 08:04:15 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\SegundoParcialPrograFuncional\ejercicio1\ejercicio1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+oct 20, 2026 8:04:16 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2026.10.20 08:04:16 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\SegundoParcialPrograFuncional\ejercicio1\ejercicio1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 08:04:16 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\SegundoParcialPrograFuncional\ejercicio1\ejercicio1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 08:04:16 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\SegundoParcialPrograFuncional\ejercicio1\ejercicio1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 08:04:17 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\SegundoParcialPrograFuncional\ejercicio1\ejercicio1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 08:04:16 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\SegundoParcialPrograFuncional\ejercicio1\ejercicio1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 08:04:16 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\SegundoParcialPrograFuncional\ejercicio1\ejercicio1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 08:04:16 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\SegundoParcialPrograFuncional\ejercicio1\ejercicio1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+oct 20, 2026 8:04:17 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+2026.10.20 08:04:16 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\SegundoParcialPrograFuncional\ejercicio1\ejercicio1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+oct 20, 2026 8:04:17 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+2026.10.20 08:04:18 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\SegundoParcialPrograFuncional\ejercicio1\ejercicio1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 08:04:18 WARN  Could not find semantic tokens for: file:///C:/Users/p1406/OneDrive/Escritorio/SegundoParcialPrograFuncional/ejercicio1/ejercicio1.scala
+2026.10.20 08:04:19 INFO  Running List(C:\Users\p1406\AppData\Local\Coursier\data\bin\scala-cli.BAT, setup-ide, C:\Users\p1406\OneDrive\Escritorio\SegundoParcialPrograFuncional\ejercicio1)
+2026.10.20 08:04:20 INFO  Attempting to connect to the build server...
+2026.10.20 08:04:20 INFO  Running BSP server List(C:\Users\p1406\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\p1406\OneDrive\Escritorio\SegundoParcialPrograFuncional\ejercicio1\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\p1406\OneDrive\Escritorio\SegundoParcialPrograFuncional\ejercicio1\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\p1406\OneDrive\Escritorio\SegundoParcialPrograFuncional\ejercicio1\.scala-build\ide-envs.json, C:\Users\p1406\OneDrive\Escritorio\SegundoParcialPrograFuncional\ejercicio1)
+2026.10.20 08:04:19 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at C:\Users\p1406\OneDrive\Escritorio\SegundoParcialPrograFuncional\ejercicio1\.metals\bsp.trace.json or C:\Users\p1406\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.10.20 08:04:20 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\SegundoParcialPrograFuncional\ejercicio1\ejercicio1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 08:04:20 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\SegundoParcialPrograFuncional\ejercicio1\ejercicio1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 08:04:20 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\SegundoParcialPrograFuncional\ejercicio1\ejercicio1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 08:04:20 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\SegundoParcialPrograFuncional\ejercicio1\ejercicio1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 08:04:20 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\SegundoParcialPrograFuncional\ejercicio1\ejercicio1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 08:04:20 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\SegundoParcialPrograFuncional\ejercicio1\ejercicio1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 08:04:20 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\SegundoParcialPrograFuncional\ejercicio1\ejercicio1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 08:04:21 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\SegundoParcialPrograFuncional\ejercicio1\ejercicio1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 08:04:21 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\SegundoParcialPrograFuncional\ejercicio1\ejercicio1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 08:04:21 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\SegundoParcialPrograFuncional\ejercicio1\ejercicio1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 08:04:21 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\SegundoParcialPrograFuncional\ejercicio1\ejercicio1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 08:04:21 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\SegundoParcialPrograFuncional\ejercicio1\ejercicio1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 08:04:22 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\SegundoParcialPrograFuncional\ejercicio1\ejercicio1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 08:04:22 INFO  BSP server: Starting compilation server
+2026.10.20 08:04:22 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\SegundoParcialPrograFuncional\ejercicio1\ejercicio1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 08:04:25 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\SegundoParcialPrograFuncional\ejercicio1\ejercicio1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 08:04:25 INFO  time: Connected to build server in 5.55s
+2026.10.20 08:04:25 INFO  Connected to Build server: scala-cli v1.17.1
+2026.10.20 08:04:25 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\SegundoParcialPrograFuncional\ejercicio1\ejercicio1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 08:04:25 INFO  time: Imported build in 0.25s
+2026.10.20 08:04:26 INFO  compiling ejercicio1_41e103cfb2 (1 scala source)
+2026.10.20 08:04:29 INFO  time: compiled ejercicio1_41e103cfb2 in 2.43s
+2026.10.20 08:04:33 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.10.20 08:04:35 INFO  time: indexed workspace in 9.7s
+oct 20, 2026 8:08:39 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 555
+oct 20, 2026 8:09:14 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 671
+oct 20, 2026 8:09:32 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 761
+2026.10.20 08:09:57 INFO  compiling ejercicio1_41e103cfb2 (1 scala source)
+2026.10.20 08:10:00 INFO  time: compiled ejercicio1_41e103cfb2 in 2.68s
+2026.10.20 08:10:27 INFO  compiling ejercicio1_41e103cfb2 (1 scala source)
+2026.10.20 08:10:28 INFO  time: compiled ejercicio1_41e103cfb2 in 1.05s
+oct 20, 2026 8:11:09 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1091
+2026.10.20 08:11:12 INFO  compiling ejercicio1_41e103cfb2 (1 scala source)
+2026.10.20 08:11:13 INFO  time: compiled ejercicio1_41e103cfb2 in 1.04s
+oct 20, 2026 8:11:21 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1183
+2026.10.20 08:11:27 INFO  compiling ejercicio1_41e103cfb2 (1 scala source)
+2026.10.20 08:11:27 INFO  time: compiled ejercicio1_41e103cfb2 in 0.38s
+2026.10.20 08:11:45 INFO  compiling ejercicio1_41e103cfb2 (1 scala source)
+2026.10.20 08:11:45 INFO  time: compiled ejercicio1_41e103cfb2 in 0.79s
+2026.10.20 08:11:49 INFO  compiling ejercicio1_41e103cfb2 (1 scala source)
+2026.10.20 08:11:49 INFO  time: compiled ejercicio1_41e103cfb2 in 0.11s
+2026.10.20 08:12:20 INFO  compiling ejercicio1_41e103cfb2 (1 scala source)
+2026.10.20 08:12:20 INFO  time: compiled ejercicio1_41e103cfb2 in 0.87s
+2026.10.20 08:12:24 INFO  compiling ejercicio1_41e103cfb2 (1 scala source)
+2026.10.20 08:12:24 INFO  time: compiled ejercicio1_41e103cfb2 in 0.63s
+2026.10.20 08:12:25 INFO  compiling ejercicio1_41e103cfb2 (1 scala source)
+2026.10.20 08:12:25 INFO  time: compiled ejercicio1_41e103cfb2 in 0.69s
+2026.10.20 08:12:34 INFO  compiling ejercicio1_41e103cfb2 (1 scala source)
+2026.10.20 08:12:34 INFO  time: compiled ejercicio1_41e103cfb2 in 0.61s
+oct 20, 2026 8:13:00 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1618
+oct 20, 2026 8:13:53 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1735
+oct 20, 2026 8:15:15 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1819
+oct 20, 2026 8:16:24 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2007
+2026.10.20 08:17:40 INFO  compiling ejercicio1_41e103cfb2 (1 scala source)
+2026.10.20 08:17:40 INFO  time: compiled ejercicio1_41e103cfb2 in 0.65s
+2026.10.20 08:17:46 INFO  compiling ejercicio1_41e103cfb2 (1 scala source)
+2026.10.20 08:17:46 INFO  time: compiled ejercicio1_41e103cfb2 in 0.35s
+2026.10.20 08:18:12 INFO  compiling ejercicio1_41e103cfb2 (1 scala source)
+2026.10.20 08:18:12 INFO  time: compiled ejercicio1_41e103cfb2 in 0.28s
+oct 20, 2026 8:18:22 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2294
+oct 20, 2026 8:18:26 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2328
+2026.10.20 08:18:47 INFO  compiling ejercicio1_41e103cfb2 (1 scala source)
+2026.10.20 08:18:47 INFO  time: compiled ejercicio1_41e103cfb2 in 0.35s
+2026.10.20 08:19:10 INFO  compiling ejercicio1_41e103cfb2 (1 scala source)
+2026.10.20 08:19:10 INFO  time: compiled ejercicio1_41e103cfb2 in 0.33s
+oct 20, 2026 8:19:32 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2656
+oct 20, 2026 8:19:37 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2717
+oct 20, 2026 8:20:20 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2900
+2026.10.20 08:21:10 INFO  compiling ejercicio1_41e103cfb2 (1 scala source)
+2026.10.20 08:21:10 INFO  time: compiled ejercicio1_41e103cfb2 in 0.36s
+oct 20, 2026 8:21:23 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3161
+oct 20, 2026 8:21:57 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3244
+2026.10.20 08:22:15 INFO  compiling ejercicio1_41e103cfb2 (1 scala source)
+2026.10.20 08:22:15 INFO  time: compiled ejercicio1_41e103cfb2 in 0.34s
+oct 20, 2026 8:22:18 A. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+oct 20, 2026 8:23:13 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3359
+2026.10.20 08:23:26 INFO  compiling ejercicio1_41e103cfb2 (1 scala source)
+2026.10.20 08:23:26 INFO  time: compiled ejercicio1_41e103cfb2 in 0.34s
+oct 20, 2026 8:24:29 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3505
+2026.10.20 08:24:38 INFO  compiling ejercicio1_41e103cfb2 (1 scala source)
+2026.10.20 08:24:38 INFO  time: compiled ejercicio1_41e103cfb2 in 0.32s
+oct 20, 2026 8:24:51 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3637
+2026.10.20 08:24:52 INFO  compiling ejercicio1_41e103cfb2 (1 scala source)
+2026.10.20 08:24:52 INFO  time: compiled ejercicio1_41e103cfb2 in 0.29s
+2026.10.20 08:25:14 INFO  Shutting down server
+2026.10.20 08:25:14 INFO  Memory monitor stopped
+2026.10.20 08:25:14 INFO  shutting down Metals
+2026.10.20 08:25:14 INFO  Shut down connection with build server.
+2026.10.20 08:25:14 INFO  Exiting server
